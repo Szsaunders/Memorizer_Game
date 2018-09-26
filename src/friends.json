@@ -1,0 +1,64 @@
+[
+  {
+    "id": 1,
+    "name": "Gamera",
+    "image": "https://www.secretcompassonline.com/temp/product_view//PRIME1_Gamera_1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Godzilla",
+    "image": "https://wikizilla.org/wiki/images/thumb/a/ae/GMK_-_Godzilla.png/300px-GMK_-_Godzilla.png"
+  },
+  {
+    "id": 3,
+    "name": "Gigan",
+    "image": "https://vignette.wikia.nocookie.net/villains/images/e/e8/Godzilla.jp_-_Gigan_2004.jpg/revision/latest?cb=20151007212908"
+  },
+  {
+    "id": 4,
+    "name": "Ghidorah",
+    "image": "https://vignette.wikia.nocookie.net/godzilla/images/3/33/Godzilla.jp_-_9_-_SoshingekiGhido_King_Ghidorah_1968.jpg/revision/latest?cb=20140131040446"
+  },
+  {
+    "id": 5,
+    "name": "Angilas",
+    "image": "https://cdnb.artstation.com/p/assets/images/images/005/326/903/smaller_square/dope-pope-angilas-ks-by-dp.jpg?1490221248"
+  },
+  {
+    "id": 6,
+    "name": "Space Godzilla",
+    "image": "https://vignette.wikia.nocookie.net/godzilla/images/8/80/SpaceGodzilla_0.jpg/revision/latest?cb=20140129191315"
+  },
+  {
+    "id": 7,
+    "name": "Mothra",
+    "image": "https://vignette.wikia.nocookie.net/godzilla/images/f/f7/Godzilla.jp_-_28_-_FinalMosuImago_Mothra_2004.jpg/revision/latest?cb=20170923014335",
+    "occupation": "Looney Toon",
+    "location": "A Rabbit Burrow"
+  },
+  {
+    "id": 8,
+    "name": "Battra",
+    "image": "https://wikizilla.org/wiki/images/thumb/8/8b/Battra_0.jpg/300px-Battra_0.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Hedorah",
+    "image": "https://vignette.wikia.nocookie.net/godzilla/images/b/bb/Godzilla.jp_-_Hedorah_2004.jpg/revision/latest?cb=20140131120849"
+  },
+  {
+    "id": 10,
+    "name": "Baragon",
+    "image": "https://vignette.wikia.nocookie.net/godzilla/images/d/df/Godzilla.jp_-_Baragon_2001.jpg/revision/latest?cb=20140131120605"
+  },
+  {
+    "id": 11,
+    "name": "Mechagodzilla",
+    "image": "https://vignette.wikia.nocookie.net/godzilla/images/4/49/MechaGodzilla-2.jpg/revision/latest?cb=20140129190259"
+  },
+  {
+    "id": 12,
+    "name": "Rodan",
+    "image": "https://wikizilla.org/wiki/images/thumb/1/19/DAM_-_Rodan_1968.png/300px-DAM_-_Rodan_1968.png"
+  }
+]
