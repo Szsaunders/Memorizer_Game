@@ -62,10 +62,10 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <h1 className="App-title">Memorizer Game</h1>
+          <h1 className="App-title">Kaiju Game</h1>
           <h2>Score: {this.state.count} | High Score: {this.state.highCount}</h2>
-          <div>Click on images to raise your score. Click on the same image twice and you lose.</div>
-          <div>Click an Image to begin!</div>
+          <div>Click on Kaiju to raise your score. Click on the same Kaiju twice and you lose.</div>
+          <div>Click a Kaiju to begin!</div>
         </header>
         <div className="App-filler-div"></div>
         <Wrapper>
